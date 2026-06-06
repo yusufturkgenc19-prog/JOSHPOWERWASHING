@@ -1,0 +1,23 @@
+{
+  "name": "joshpowerwashing",
+  "version": "1.0.0",
+  "description": "Josh's Power Washing - Professional pressure washing services in Wayne, NJ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufturkgenc19-prog/JOSHPOWERWASHING.git"
+  },
+  "keywords": ["power-washing", "pressure-washing", "wayne-nj"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufturkgenc19-prog/JOSHPOWERWASHING/issues"
+  },
+  "homepage": "https://github.com/yusufturkgenc19-prog/JOSHPOWERWASHING#readme",
+  "dependencies": {
+    "@vercel/speed-insights": "^2.0.0"
+  }
+}
